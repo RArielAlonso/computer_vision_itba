@@ -3,3 +3,4 @@ submission.csv
 .ipynb_checkpoints/
 __pycache__/
 fashion-mnist-itba-lab-ml-2018b/
+checkpoint.mnist-cnn.weights.h5
